@@ -1,16 +1,30 @@
-# wallpaper_app
+# Wallpaper App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Wallpaper App is a ONE DAY Flutter application that enables users to browse, download, and set wallpapers for their devices. It leverages the GetX package for efficient state management, navigation, and dependency injection, providing a smooth and responsive user experience.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Browse Wallpapers:** View a gallery of high-quality wallpapers.
+- **Download Wallpapers:** Save wallpapers to your device storage.
+- **Set as Wallpaper:** Apply downloaded wallpapers as your device's wallpaper.
+- **Dynamic UI:** Responsive and interactive user interface using GetX.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter:** Framework for building the app.
+- **GetX:** State management, navigation, and dependency injection.
+- **Dio:** HTTP client for network requests.
+- **Path Provider:** Access directories on the device.
+- **Permission Handler:** Manage app permissions.
+- **Device Info Plus:** Retrieve device information.
+
+## Installation
+
+To set up and run the Wallpaper App locally, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/DagiABAY/wallpaper-app.git
