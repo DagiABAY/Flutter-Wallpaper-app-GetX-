@@ -29,4 +29,4 @@ The Wallpaper App is a ONE DAY Flutter application that enables users to browse,
 - [device_info_plus](https://pub.dev/packages/device_info_plus)
 - [uuid](https://pub.dev/packages/uuid)
 # Demo 
-https://github.com/DagiABAY/Flutter-Wallpaper-app-GetX-/issues/2#issue-2446218210
+https://github.com/user-attachments/assets/e7194157-553d-43b6-93ab-672ccbf5169b
