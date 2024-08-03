@@ -1,16 +1,33 @@
-# wallpaper_app
+# Wallpaper App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Wallpaper App is a ONE DAY Flutter application that enables users to browse, download, and set wallpapers for their devices. It leverages the GetX package for efficient state management, navigation, and dependency injection, providing a smooth and responsive user experience.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Browse Wallpapers:** View a gallery of high-quality wallpapers.
+- **Download Wallpapers:** Save wallpapers to your device storage.
+- **Set as Wallpaper:** Apply downloaded wallpapers as your device's wallpaper.
+- **Dynamic UI:** Responsive and interactive user interface using GetX.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository.
+2. Obtain an API key from  and replace `<youBaseAdress> and <yourEndpointurl>`on both basi_api.dart and home_api.dart.
+3. Run `flutter pub get` to install dependencies.
+4. Run the app using `flutter run`.
+
+## Dependencies
+
+- [Flutter](https://flutter.dev/)
+- [GetX](https://pub.dev/packages/get)
+- [flutter_launcher_icons](https://pub.dev/packages/get)
+- [dio](https://pub.dev/packages/dio)
+- [permission_handler](https://pub.dev/packages/permission_handler)
+- [path_provider](https://pub.dev/packages/path_provider)
+- [device_info_plus](https://pub.dev/packages/device_info_plus)
+- [uuid](https://pub.dev/packages/uuid)
+
+# Demo 
+https://github.com/DagiABAY/Flutter-Wallpaper-app-GetX-/issues/2#issue-2446218210
